@@ -1,3 +1,6 @@
+# IMPORTANT
+This project was forked to remove the examples at the bottom of script so it can be included by using a CDN.
+
 # Vanilla JS Carousel
 A simple sliding 3D carousel gallery made with html, css & js
 
