@@ -41,7 +41,7 @@ class Carousel {
 
     // Take dataset array and append items to container
     this.slides.forEach((item, index) => {
-      const carouselItem = item.el;
+      const carouselItem = item;
 
       container.append(carouselItem);
       
